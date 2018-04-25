@@ -1,0 +1,3 @@
+git remote add origin git@github.com:xiaoshuai520/gitbash.git
+
+I an doing text
